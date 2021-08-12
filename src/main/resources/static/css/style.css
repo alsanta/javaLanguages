@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainBody{
+    margin: 20px auto;
+    width: 70%;
+    background-color: white;
+}
+
+body{
+    background-color: lightseagreen;
+}
+
+.subBtn{
+    background-color: teal;
+    padding: 2px 4px;
+    width: 100px;
+}
+
+.inputBox{
+    display: flex;
+    width: 500px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
